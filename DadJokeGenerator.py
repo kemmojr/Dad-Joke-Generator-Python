@@ -19,7 +19,7 @@ while (True):
     print('Dad Joke generator\n')
     print('\tHello There\t\n')
     print('\tWould you care for a dad joke?\t\n')
-    input('\tok dad (press enter)\t\n')
+    input('\t*groan* (press enter)\t\n')
     print(f'\t{CmonDad()}\n')
     input('\t*groan* (press enter)\t\n')
     
